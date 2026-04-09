@@ -60,6 +60,7 @@ The final output provides a data-driven selection and clear investment recommend
 ---
 ## DashBoard
 <img width="1550" height="507" alt="Screenshot  211548" src="https://github.com/user-attachments/assets/a163c554-5145-4369-a1f6-c2dfe65a383a" />
+<a href="https://github.com/mre38/Capital-Budgeting-Analysis-for-Multi-Project-Expansion/blob/main/Capital%20Budget.xlsx">View DashBoard<a/>
 
 ## Key Analysis Questions & Data Insights
 
