@@ -65,7 +65,7 @@ The final output provides a data-driven selection and clear investment recommend
 ## Key Analysis Questions & Data Insights
 
 #### Which project will generate the highest returns and maximize shareholder value?**
- **Project A (Luxury Hotel)** is the only viable option for maximizing shareholder value. It is the only project with a **positive NPV ($400,706)**. In capital budgeting, a positive NPV indicates that the project’s returns exceed the cost of capital, thereby adding direct value to the firm. Projects B and C both have negative NPVs, meaning they would result in a net loss when adjusted for the time value of money
+ **Project A (Luxury Hotel)** is the only viable option for maximizing shareholder value. It is the only project with a **positive NPV ($400,706)**. a positive NPV indicates that the project’s returns exceed the cost of capital, thereby adding direct value to the firm. Projects B and C both have negative NPVs, meaning they would result in a net loss when adjusted for the time value of money
 
 #### Which project is the least risky?**
  **Project C (Event Center)** appears the least risky because it has the shortest **Payback Period (3.5 years)**. However, since Project C fails to meet the required 10% discount rate (returning only 6.99%), the speed of repayment does not compensate for the overall loss in value. Therefore, Project A is the safest long-term bet because its **IRR (12.13%)** safely exceeds its 10% discount rate
